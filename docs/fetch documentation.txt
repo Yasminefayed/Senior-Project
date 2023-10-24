@@ -1,0 +1,23 @@
+1-general and electronics:
+    1-amazon
+    2-jumia 
+    3-noon 
+    4-select
+    5-olx 
+
+2-grocery 
+    1-carrefour 
+    2-spinney
+    3-gourmet
+    4-hyperone
+
+3-clothes
+    1-h&m
+    2-max
+    3-bershka
+    4-zara
+
+-----------------------------------
+freshfood 80% 
+    no links
+
